@@ -7,7 +7,7 @@ This repository showcases my technical portfolio in clinical programming using *
 ```
 clinical-programming-portfolio/
 │
-├── README.md
+├── README.MD
 ├── Clinical_Programming_Portfolio.Rproj
 │
 ├── 01_R_Package_Development/
